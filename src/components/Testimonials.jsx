@@ -3,9 +3,11 @@ import styles from "../style";
 import FeedbackCard from "./FeedbackCard";
 
 const Testimonials = () => (
-  <section id='clients' className={`${styles.flexCenter} flex-col relative`}>
-    {/* TODO */}
-    <div />
+  <section
+    id='clients'
+    className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}
+  >
+    <div className='absolute z-[0] w-[60%] h-[60%] rounded-full blue__gradient -right-[50%]' />
 
     <div className='w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]'>
       <h2 className={styles.heading2}>
