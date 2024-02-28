@@ -1,8 +1,20 @@
-# React + Vite
+# HooBank App
+> Application built for modern banking website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stacks
+- React
+- TailwindCSS
 
-Currently, two official plugins are available:
+## Author
+- Referencing JSMastery 
+- Amadu Kamara
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## App Screenshots
+
+**Desktop Screen**
+
+<img width="1749" alt="HooBank Desktop" src="https://github.com/AmaduKamara/jsm-hoobank-app/assets/50941074/25c34b26-4256-4220-bd0f-5ed9ea8278f1">
+
+**Mobile Screen**
+
+<img width="446" alt="HooBank Mobile Screen" src="https://github.com/AmaduKamara/jsm-hoobank-app/assets/50941074/33871ef4-767c-4b8f-a616-3b9c9ff3774c">
