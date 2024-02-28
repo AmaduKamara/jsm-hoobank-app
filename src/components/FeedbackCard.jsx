@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { quotes } from "../assets";
 
 const FeedbackCard = ({ content, name, title, img }) => {
